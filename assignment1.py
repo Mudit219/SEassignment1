@@ -4,8 +4,13 @@ def addition(a,b):
 def subtraction(a,b):
 	return a-b;
 
+<<<<<<< HEAD
 def multiplication(a,b):
 	return a*b;
+=======
+def division(a,b):
+	return a/b;
+>>>>>>> division
 
 if __name__ == "__main__":
 	a = 3
